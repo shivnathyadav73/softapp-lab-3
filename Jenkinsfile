@@ -10,7 +10,7 @@ pipeline {
         KUBE_CONFIG  = "kubeconfig-file"
 
         // GitHub Repo
-        GIT_URL = "https://github.com/shivnathyadav73/static-web-imgPUSH-dockerHUB-k8.git"
+        GIT_URL = "https://github.com/shivnathyadav73/softapp-lab-3.git"
     }
 
     stages {
